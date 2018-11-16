@@ -1,4 +1,4 @@
-# Groundspeed-Card
+# Groundspeed Card
 Aviation Apps presents the Groundspeed Card application.
 
 Simply enter these 3 values:
