@@ -9,8 +9,7 @@ Simply enter these 3 values:
 
 -Wind Speed
 
-To solve for these 2 Values for ANY range and increment 
-of true courses for your aircraft:
+To solve for these 2 Values for ANY range and increment of true courses for your aircraft:
 
 -Wind Correction Angle
 
@@ -22,4 +21,4 @@ You may also adjust the range of true courses calculated and the increment at wh
 
 Visit Aviation Apps at: http://aviationapps.myfreesites.net
 
-Groundspeed Card Version 1.0 - January 2017
+Groundspeed Card Version 2.0 - February 2020
