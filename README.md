@@ -1,23 +1,21 @@
 # Groundspeed Card
+## Quickly and Easily Compute WCA and Groundspeed for any True Course
+
 Aviation Apps presents the Groundspeed Card application.
 
 Simply enter these 3 values:
 
--Aircraft True Airspeed
+- True Airspeed
+- True Course of Wind
+- Wind Speed
 
--Wind FROM True Course
+To solve these 2 values for all true courses of your aircraft:
 
--Wind Speed
+- Wind Correction Angle
+- Groundspeed
 
-To solve for these 2 Values for ANY range and increment of true courses for your aircraft:
-
--Wind Correction Angle
-
--Aircraft Groundspeed
-
-You may adjust the units of each of the speeds to either knots, miles per hour, or kilometers per hour by simply clicking the drop-down menus and selecting the desired unit.
-
-You may also adjust the range of true courses calculated and the increment at which they are calculated by simply typing the desired values.
+View GitHub repository at:
+https://github.com/chandler-stevens/Groundspeed-Card
 
 Visit Aviation Apps at: http://aviationapps.myfreesites.net
 
